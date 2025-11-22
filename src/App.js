@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Demo for Azure website ........
+          After deployment in Azure
         </p>
         <a
           className="App-link"
